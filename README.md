@@ -34,11 +34,11 @@ To run the script in a Bash environment, follow these steps:
 1. Open your terminal.
 2. Clone the repo
 ``` bash
-   git clone https://github.com/antenmanuuel/GradesDataAnalyser.git
+   git clone https://github.com/antenmanuuel/GradesDataAnalyzer.git
 ```
 3. Navigate to the directory containing the script:
 ```bash
-  cd GradesDataAnalyser
+  cd GradesDataAnalyzer
 ```
 4. Execute the script:
 ```bash
