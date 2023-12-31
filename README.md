@@ -36,11 +36,11 @@ To run the script in a Bash environment, follow these steps:
 ``` bash
    git clone https://github.com/antenmanuuel/GradesDataAnalyser.git
 ```
-4. Navigate to the directory containing the script:
+3. Navigate to the directory containing the script:
 ```bash
   cd GradesDataAnalyser
 ```
-3. Execute the script:
+4. Execute the script:
 ```bash
   python data_base.py
 ```
