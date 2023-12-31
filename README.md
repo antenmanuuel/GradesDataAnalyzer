@@ -32,9 +32,13 @@ Your data files should be placed in a directory named `data` within the same dir
 To run the script in a Bash environment, follow these steps:
 
 1. Open your terminal.
-2. Navigate to the directory containing the script:
+2. Clone the repo
+``` bash
+   git clone https://github.com/antenmanuuel/GradesDataAnalyser.git
+```
+4. Navigate to the directory containing the script:
 ```bash
-  cd GradesDataAnalyzer
+  cd GradesDataAnalyser
 ```
 3. Execute the script:
 ```bash
